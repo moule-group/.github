@@ -30,7 +30,7 @@ Our research is generously supported by:
 We value our numerous international collaborators, who enrich and enhance the productivity and interest of each project.
 
 ## Contact Us
-For more information, please visit our [website]([[http://example.com](https://moule.ech.ucdavis.edu/)]) or contact us at [amoule@ucdavis.edu].
+For more information, please visit our [website](https://moule.ech.ucdavis.edu/) or contact us at [amoule@ucdavis.edu].
 
 ---
 
